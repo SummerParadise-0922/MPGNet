@@ -1,0 +1,12 @@
+{
+    "batch_size":8,
+    "num_workers":8,
+    "G_lr":1e-4,
+    "D_lr":1e-3,
+    "min_G_lr":1e-6,
+    "min_D_lr":1e-5,
+    "epochs":50,
+    "saved_epoch":1,
+    "beta1":0.5,
+    "beta2":0.999
+}

@@ -1,0 +1,9 @@
+{
+    "batch_size":64,
+    "num_workers":8,
+    "lr": 1e-4,
+    "min_lr":1e-6,
+    "epochs":300,
+    "saved_epoch":1,
+    "frozen_bn":20
+}
